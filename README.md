@@ -1,5 +1,5 @@
 # Epitech
 Project throughout my schooling at Epitech 
 <div>
-  <img class="center" src="https://imgur.com/gallery/EiFzA8V">
+  <img class="center" src="![image](https://user-images.githubusercontent.com/91881478/191957871-9f128a75-c909-4566-9708-0d04544a59e5.png)">
  </div>
